@@ -27,13 +27,20 @@ The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. 
 | rating                  | Rating                                  | FLOAT(2, 1)    |
 
 
-# Analysis List
-1.Product Analysis
+### Analysis List
+
+1. Product Analysis
+
 > Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
-2.Sales Analysis
+
+2. Sales Analysis
+
 > This analysis aims to answer the question of the sales trends of product. The result of this can help use measure the effectiveness of each sales strategy the business applies and what modificatoins are needed to gain more sales.
-3.Customer Analysis
+
+3. Customer Analysis
+
 > This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
+
 
 # Approach Used
 # 1.Data Wrangling: This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
